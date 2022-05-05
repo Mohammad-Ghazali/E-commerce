@@ -1,0 +1,61 @@
+{
+  "product":[
+     {
+       "id": "1",
+       "name": "Soap",
+       "description": "Beardo Skin Tightening Hemp Soap 125gm",
+      "price": 40,
+       "image": "https://m.media-amazon.com/images/I/61BXRTR-ejL._SY741_.jpg"
+     },
+     {
+      "id": "2",
+       "name": "Oil",
+       "description": "Beardo Beard and Hair Growth Oil - 50 ml for faster beard growth and thicker looking beard | Natural Actives Only | No Harmful Chemicals | Beard Oil for Patchy and Uneven Beard | Clinically Tested | Non Sticky",
+       "price": 250,
+       "image":"https://m.media-amazon.com/images/I/71McT5bHPwL._SY879_.jpg"
+     },
+     {
+       "id": "3",
+       "name": "Shampoo",
+       "description": "Beardo Keratin Shampoo for Hair Growth & Damage Control - 300 ml",
+       "price": 300,
+       "image": "https://m.media-amazon.com/images/I/61wgafMsNoL._SY879_.jpg"
+     },
+     {
+       "id": "4",
+       "name": "Cream",
+       "description": " Click to open expanded view Beardo Ultraglow All in One Face Cream For Men with SPF 30 | Skin Brightening Face Cream | Dark Spot Reduction | Sun Protection | 60 g",
+       "price": 150,
+       "image": "https://m.media-amazon.com/images/I/61jf1zjKNaL._SY879_.jpg"
+     },
+     {
+      "id": "5",
+       "name": "Hair Wax",
+       "description": "Beardo Stronghold Hair Wax 100 gm| Crystal Hair Wax for Men | Glossy Finish | Hair Style, Shine | Strong Hold Styling Hair Wax",
+       "price": 90,
+       "image":"https://salontrix-images.s3.amazonaws.com/images/salontrix/8906084790429p"
+     },
+     {
+      "id": "6",
+       "name": "Serum",
+       "description": "Beardo Beard Serum, 50 ml | Daily use beard serum for men | Softens Rough Beard |Shines & Nourishes Dry Beard | All Day Moisturising | Paraben Free | Sulphate Free",
+       "price": 600,
+       "image":"https://m.media-amazon.com/images/I/71HviRnJZ3L._SY879_.jpg"
+     },
+     {
+      "id": "7",
+       "name": "Mustache Wax",
+       "description": "Beardo Beard and Mustache Wax Extra Strong, 50 gm | Made in India",
+       "price": 550,
+       "image":"https://m.media-amazon.com/images/I/7174BU72r1L._SX569_.jpg"
+     },
+     {
+      "id": "8",
+       "name": "Lotion",
+       "description": "Beardo Ultraglow Body Lotion for Men | Intense Hydration | Absorbs Instantly | Heals & Repairs Skin | 250 ml",
+       "price": 250,
+       "image":"https://m.media-amazon.com/images/I/51CdrFxKJ+L._SL1500_.jpg"
+     }
+   ]
+ }
+   
